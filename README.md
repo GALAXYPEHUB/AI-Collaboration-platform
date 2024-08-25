@@ -1,1 +1,1 @@
-# AI-Collaboration-platform-
+# AI-Collaboration-platform
